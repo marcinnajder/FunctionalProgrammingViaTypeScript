@@ -1,0 +1,2 @@
+# FunctionalProgrammingViaTypeScript
+Introduction to functional programming concepts using TypeScript language
